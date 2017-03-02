@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=RatePlot
+subdirs_src_RatePlot = src_RatePlot_RatePlotOld03 src_RatePlot_RatePlotOld01 src_RatePlot_RatePlotOld02 src_RatePlot_RatePlot

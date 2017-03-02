@@ -1,0 +1,3 @@
+tmp/slc6_amd64_gcc493/src/RatePlot/RatePlot/plugins/RatePlotRatePlotAuto/RatePlot.o: \
+ src/RatePlot/RatePlot/plugins/RatePlot.cc \
+
